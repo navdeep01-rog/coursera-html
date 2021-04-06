@@ -1,2 +1,1 @@
-# coursera-html
-cousera html css course
+# navdeep.github.io
